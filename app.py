@@ -3,7 +3,7 @@ import pathlib
 import textwrap
 import google.generativeai as genai
 
-genai.configure(api_key='AIzaSyCvkV4v4NPnPE2TcDGpIaJx56OIf_vUCnU')
+genai.configure(api_key=st.secrets["Gemini_key"])
 
 model = genai.GenerativeModel('models/gemini-1.5-pro-latest')
 
