@@ -1,44 +1,24 @@
 # Streamlit for the web interface
-streamlit==1.25.0
+streamlit
 
 # LangChain and related components
-langchain==0.91.0
-langchain_community==0.1.7
+langchain
+langchain_community
 
 # Google Generative AI
-google-generativeai==0.8.2
+google-generativeai
 
 # Google API core library
-google-api-core==2.20.0
+google-api-core
 
 # Google Generative AI Embeddings and dependencies
-google-cloud==0.34.0
-google-cloud-aiplatform==1.28.1
+google-cloud
+google-cloud-aiplatform
 
-# Protobuf with no specific version conflicts
-protobuf>=3.20.2,<6.0.0
+# Protobuf package for compatibility
+protobuf
 
 # ONNX runtime for AI model execution
-onnxruntime==1.19.2
+onnxruntime
 
 # Grpc and related libraries
-grpcio==1.66.1
-grpcio-status==1.66.1
-
-# OpenTelemetry for telemetry support
-opentelemetry-api==1.27.0
-opentelemetry-sdk==1.27.0
-opentelemetry-proto==1.27.0
-
-# Huggingface libraries for AI model handling
-transformers==4.33.2
-
-# Chroma for document vector storage
-chromadb==0.4.5
-
-# Other essential utilities
-python-docx==0.8.11
-docx2txt==0.8
-
-# File handling utilities
-pathlib==1.0.1
