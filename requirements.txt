@@ -5,9 +5,15 @@ streamlit
 langchain
 langchain_community
 langchain-google-genai
+langchain-core
 
 # Google Generative AI
 google-generativeai
+google-auth
+google-auth-httplib2
+google-generativeai
+googleapis-common-protos
+google-api-python-client
 
 # Google API core library
 google-api-core
@@ -23,3 +29,4 @@ protobuf
 onnxruntime
 
 # Grpc and related libraries
+chromaDB
