@@ -4,6 +4,7 @@ streamlit
 # LangChain and related components
 langchain
 langchain_community
+langchain-google-genai
 
 # Google Generative AI
 google-generativeai
