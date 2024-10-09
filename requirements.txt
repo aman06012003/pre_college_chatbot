@@ -97,7 +97,6 @@ pillow==10.4.0
 posthog==3.7.0
 propcache==0.2.0
 proto-plus==1.24.0
-protobuf==5.28.2
 pyarrow==17.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
