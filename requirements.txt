@@ -30,3 +30,4 @@ onnxruntime
 
 # Grpc and related libraries
 chromaDB
+docx2txt
