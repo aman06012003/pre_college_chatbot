@@ -1,5 +1,5 @@
 # Streamlit for the web interface
-pip
+pip==24.2
 streamlit
 
 # LangChain and related components
