@@ -23,7 +23,7 @@ google-cloud
 google-cloud-aiplatform
 
 # Protobuf package for compatibility
-protobuf==3.20.x
+protobuf==3.20
 
 # ONNX runtime for AI model execution
 onnxruntime
