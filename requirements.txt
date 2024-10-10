@@ -1,5 +1,5 @@
 # Streamlit for the web interface
-pip install --upgrade pip;
+pip
 streamlit
 
 # LangChain and related components
