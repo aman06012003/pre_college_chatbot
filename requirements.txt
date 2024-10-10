@@ -1,4 +1,6 @@
-streamlit==24.2
+pip==24.2 
+python==3.4
+streamlit
 
 # LangChain and related components
 langchain
