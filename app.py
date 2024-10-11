@@ -1,4 +1,4 @@
-
+import setuptools
 import os
 import pathlib
 import streamlit as st
