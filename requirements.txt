@@ -1,4 +1,4 @@
-setuptools>=58.0.0
+setuptools==58.0.0
 pip==24.2 
 streamlit
 numpy==1.24.3
